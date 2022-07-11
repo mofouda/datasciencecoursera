@@ -1,2 +1,2 @@
 # datasciencecoursera
-A repository linked to RStudio
+A repository linked to RStudio 
